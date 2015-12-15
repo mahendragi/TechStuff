@@ -3,19 +3,23 @@ DevOps/Cloud/OpenStack/Automation/AWS:
 - AWS Solution Arch
 
 - KVM
-- Docker
+- Vagrant
+- Docker/Dockerhub
 - OpenStack
 - Linux 
 - MangoDB
 - Jenkins
 
+
 -Python/Perl
 
 
-
-
-
-
+Need to Try out:
+- Vagrant/Docker
+- KVM/OpenStack
+- Chef
+- Mango DB
+- AWS
 
 
 Profile Stuff:
